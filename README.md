@@ -4,6 +4,14 @@
 
 </h3>
 
+<h3 align="center">
+    
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?color=4DC71F)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+![issus](https://img.shields.io/github/issues/labibkhanofficialbd/Panda-Commerce)
+![forks](https://img.shields.io/github/forks/labibkhanofficialbd/Panda-Commerce?color=4DC71F)
+![stars](https://img.shields.io/github/stars/labibkhanofficialbd/Panda-Commerce?color=4DC71F)
+  
+</h3>
 
 
 # Panda-Commerce
@@ -30,13 +38,6 @@ This is an ecommerce website that i make using bootstrap. This the most pretty n
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 ## License
 
