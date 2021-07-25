@@ -1,0 +1,24 @@
+::-webkit-scrollbar{
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb{
+    border-radius: 5px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+}
+.panda-bg-info{
+    background-color: #FCEAE8;
+}
+.categories img{
+    width: 100px;
+}
+.panda-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.hero-m{
+    margin-top: 70px;
+}
